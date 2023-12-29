@@ -1,0 +1,13 @@
+[project]
+name = "scl"
+description = "shinrax2 common lib"
+version = "0.1.0"
+authors = [
+    { name = "shinrax2" }
+]
+dependencies = [
+]
+
+[project.optional-dependencies]
+dev = [
+]
